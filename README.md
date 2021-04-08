@@ -1,2 +1,2 @@
-# spoony-coot
+# BootCamp
 This is a sample repo
